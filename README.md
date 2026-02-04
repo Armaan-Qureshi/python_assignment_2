@@ -1,6 +1,6 @@
 ## python_assignment_2
 
-This repository contains Python programs based on control structures.
+This repository contains Python programs based on control structures. (For Tutedude)
 
 ### Task 1: Even or Odd
 Checks whether a number entered by the user is even or odd using if-else.
